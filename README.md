@@ -1,6 +1,6 @@
 # Hi there, I'm Atanas - [乃ㄩ尺爪卂ㄒ卂][Channel] 👋
 
-<img src="Data/Photos/Image.png" alt="image" width="500" height="150"/>
+<img src="Data/Photos/Image.png" alt="image" width="600" height="170"/>
 
 &nbsp;
 ## 👽 I'm Full Stack Developer
@@ -10,21 +10,19 @@
 - 📫 &nbsp; You can contact me here: 
 
 ## 🎧Soundcloud
--  Click ⬇️
+-  Click ⬇️                              
 
 [<img align="left" src="https://media.giphy.com/media/jxa5EPCX4zSrxqnd6K/giphy.gif" alt="Playing" width="300" height="150" />][Scloud]
 &nbsp;
 
 ## 📷Photography
--  Click ⬇️
+-  Click ⬇️      
 
-[<img align="left" src="Data/Photos/fpage.jpg" alt="Playing" width="300" height="150" />][Fpage]
+[<img align="right" src="Data/Photos/fpage.jpg" alt="Playing" width="300" height="150" />][Fpage]
 &nbsp;
 
-<br />
-<br />
+<br ><br />
 
----
 
 ## 📙Languages
 
@@ -39,8 +37,7 @@
 <img align="left" alt="C++" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
 
 
-<br />
-<br />
+<br ><br />
 
 ---
 
