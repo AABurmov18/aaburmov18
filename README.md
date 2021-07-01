@@ -7,7 +7,7 @@
 - 🔭 &nbsp; Currently studying - Computer Science
 - 👯 &nbsp; Looking to collaborate with other content creators
 - 🥅 &nbsp; Goals: Contribute more to Open Source projects
-- 📫 &nbsp; You can contact me here: 
+- 📫 &nbsp; You can contact me here: aaburmov18@codingburgas.bg
 
 ## 🎧Soundcloud
 -  Click ⬇️                              
