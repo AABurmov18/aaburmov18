@@ -19,9 +19,6 @@
 
 [<img src="Data/Photos/fpage.jpg" alt="Playing" width="300" height="150" />][Fpage]
 
-<br ><br />
-
-
 ## 📙Languages
 
 <img align="left" alt="HTML" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
