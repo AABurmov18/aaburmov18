@@ -12,14 +12,12 @@
 ## 🎧Soundcloud
 -  Click ⬇️                              
 
-[<img align="left" src="https://media.giphy.com/media/jxa5EPCX4zSrxqnd6K/giphy.gif" alt="Playing" width="300" height="150" />][Scloud]
-&nbsp;
+[<img src="https://media.giphy.com/media/jxa5EPCX4zSrxqnd6K/giphy.gif" alt="Playing" width="300" height="150" />][Scloud]
 
 ## 📷Photography
 -  Click ⬇️      
 
-[<img align="right" src="Data/Photos/fpage.jpg" alt="Playing" width="300" height="150" />][Fpage]
-&nbsp;
+[<img src="Data/Photos/fpage.jpg" alt="Playing" width="300" height="150" />][Fpage]
 
 <br ><br />
 
