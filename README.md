@@ -31,6 +31,7 @@
 
 <img align="left" alt="C++" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
 
+<img align="left" alt="C++" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
 
 <br ><br />
 
