@@ -5,7 +5,7 @@
 ---
 An open-minded and creative thinking student pursuing a degree in Computer Science. 
 Trying to gain a comprehensive understanding of the full potential of computer programming.
-I am exploring and leveraging the latest technologies to solve real life problems. 
+I am exploring and leveraging the latest technologies to solve real life problems as far as I can.<br> 
 Open for collaborations and open-source projects.
 
 &nbsp;
@@ -17,16 +17,6 @@ Open for collaborations and open-source projects.
   <img src="https://img.shields.io/badge/DataBase.Manager-Microsoft.SQL.Server-blue">
   <img src="https://img.shields.io/badge/IoT.Applications-Architecture.And.Design-blue">
 </div>
-
-## 🎧Soundcloud
--  Click ⬇️                              
-
-[<img src="https://media.giphy.com/media/jxa5EPCX4zSrxqnd6K/giphy.gif" alt="Playing" width="300" height="150" />][Scloud]
-
-## 📷Photography
--  Click ⬇️      
-
-[<img src="Data/Photos/fpage.jpg" alt="Playing" width="300" height="150" />][Fpage]
 
 ## 📙Languages
 
@@ -46,8 +36,6 @@ Open for collaborations and open-source projects.
 
 <img align="left" alt="C++" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
 
-<br ><br />
-
 ---
 
 <details>
@@ -58,7 +46,3 @@ Open for collaborations and open-source projects.
   <img align="left" alt="Burmov stats" src="https://github-readme-stats-flame-seven.vercel.app/api?username=aaburmov18&count_private=true&show_icons=true&hide_border=true&theme=blue-green" />
 
 </details>
-
-[Channel]: https://www.youtube.com/channel/UCPraG3BkO7lavS1WjXHXwTQ
-[Scloud]: https://soundcloud.com/gardian-since
-[Fpage]: https://www.facebook.com/Aburmov
