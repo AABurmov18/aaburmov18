@@ -4,15 +4,10 @@
 
 &nbsp;
 <div id="badges">
-  <a href="your-linkedin-URL">
-    <a href="https://www.flaticon.com/free-icons/linux"  alt="Linux"></a>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Windows"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Mac"/>
-  </a>
+  <<img src="https://img.shields.io/badge/OS-Linux-blue">
+  <<img src="https://img.shields.io/badge/OS-Linux-blue">
+  <<img src="https://img.shields.io/badge/OS-Linux-blue">
+  <<img src="https://img.shields.io/badge/OS-Linux-blue">
 </div>
 
 ## 🎧Soundcloud
