@@ -13,7 +13,7 @@
 </p>
 
 &nbsp;
-## <center>👨‍💻Technologies</center>
+<h1 align="center">👨‍💻Technologies</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/System.Administration-LinuxOS-blue">
   <img src="https://img.shields.io/badge/System.Administration-WindowsOS-blue">
@@ -22,16 +22,16 @@
   <img src="https://img.shields.io/badge/IoT.Applications-Architecture.And.Design-blue">
 </p>
 
-## 📙Languages
+<h1 align="center">📙Languages</h1>
 <p align="center">
-  <img alt="HTML" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img alt="CSS" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  <img alt="JavaScript" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img alt="Python" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img alt="Python" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img alt="C++" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-  <img alt="C++" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-  <img alt="C++" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img alt="HTML" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+  <img alt="CSS" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+  <img alt="JavaScript" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img alt="Python" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img alt="Python" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img alt="C++" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+  <img alt="C++" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+  <img alt="C++" width="60px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
 </p>
 
 <br><br/>
