@@ -2,12 +2,16 @@
 
 <img src="Data/Photos/Image.png" alt="image" width="850" height="350"/>
 
+---
+
 &nbsp;
+## 👨‍💻Technologies
 <div id="badges">
-  <<img src="https://img.shields.io/badge/OS-Linux-blue">
-  <<img src="https://img.shields.io/badge/OS-Linux-blue">
-  <<img src="https://img.shields.io/badge/OS-Linux-blue">
-  <<img src="https://img.shields.io/badge/OS-Linux-blue">
+  <img src="https://img.shields.io/badge/System.Administration-LinuxOS-blue">
+  <img src="https://img.shields.io/badge/System.Administration-WindowsOS-blue">
+  <img src="https://img.shields.io/badge/DataBase.Manager-MySql-blue">
+  <img src="https://img.shields.io/badge/DataBase.Manager-Microsoft.SQL.Server-blue">
+  <img src="https://img.shields.io/badge/IoT.Applications-Architecture.And.Design-blue">
 </div>
 
 ## 🎧Soundcloud
