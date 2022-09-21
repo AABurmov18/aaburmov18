@@ -1,6 +1,6 @@
 # Hi there, I'm Atanas - [乃ㄩ尺爪卂ㄒ卂][Channel] 👋
 
-<img src="Data/Photos/Image.png" alt="image" width="600" height="170"/>
+<img src="Data/Photos/Image.png" alt="image" width="850" height="350"/>
 
 &nbsp;
 ## 👽 I'm Full Stack Developer
