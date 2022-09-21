@@ -3,6 +3,10 @@
 <img src="Data/Photos/Image.png" alt="image" width="850" height="350"/>
 
 ---
+An open-minded and creative thinking student pursuing a degree in Computer Science. 
+Trying to gain a comprehensive understanding of the full potential of computer programming.
+I am exploring and leveraging the latest technologies to solve real life problems. 
+Open for collaborations and open-source projects.
 
 &nbsp;
 ## 👨‍💻Technologies
