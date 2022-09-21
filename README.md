@@ -13,9 +13,8 @@
 </p>
 
 &nbsp;
-##
+## <center>👨‍💻Technologies</center>
 <p align="center">
-  <h1>👨‍💻Technologies</h1>
   <img src="https://img.shields.io/badge/System.Administration-LinuxOS-blue">
   <img src="https://img.shields.io/badge/System.Administration-WindowsOS-blue">
   <img src="https://img.shields.io/badge/DataBase.Manager-MySql-blue">
