@@ -3,11 +3,17 @@
 <img src="Data/Photos/Image.png" alt="image" width="850" height="350"/>
 
 &nbsp;
-## 👽 I'm Full Stack Developer
-- 🔭 &nbsp; Currently studying - Computer Science
-- 👯 &nbsp; Looking to collaborate with other content creators
-- 🥅 &nbsp; Goals: Contribute more to Open Source projects
-- 📫 &nbsp; You can contact me here: aaburmov18@codingburgas.bg
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <a href="https://www.flaticon.com/free-icons/linux"  alt="Linux"></a>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Windows"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Mac"/>
+  </a>
+</div>
 
 ## 🎧Soundcloud
 -  Click ⬇️                              
@@ -35,9 +41,7 @@
 
 <img align="left" alt="C++" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
 
-<img align="left" alt="C++" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-
-<img align="left" alt="C++" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+<img align="left" alt="C++" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
 
 <br ><br />
 
