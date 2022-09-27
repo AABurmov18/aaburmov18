@@ -46,3 +46,5 @@
   <img align="left" alt="Burmov stats" src="https://github-readme-stats-flame-seven.vercel.app/api?username=aaburmov18&count_private=true&show_icons=true&hide_border=true&theme=blue-green" />
 
 </details>
+
+[Channel]: https://www.youtube.com/channel/UCPraG3BkO7lavS1WjXHXwTQ
