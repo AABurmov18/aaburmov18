@@ -30,10 +30,10 @@
   <img alt="Python" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img alt="Python" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img alt="C++" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-  <img alt="C++" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-  <img alt="C++" width="60px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  <img alt="C++" width="60px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-  <img alt="C++" width="60px" src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original-wordmark.svg">
+  <img alt="C#" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+  <img alt="Php" width="60px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img alt="Java" width="60px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  <img alt="Haskell" width="60px" src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg">
 </p>
 
 <br><br/>
